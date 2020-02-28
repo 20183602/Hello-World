@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">家庭记账本</string>
+    <string name="action_settings">Settings</string>
+    <string name="cost_tile">cost_tile</string>
+    <string name="cost_date">cost_date</string>
+    <string name="cost_money">cost_money</string>
+    <string name="cost_tile_hint">请输入消费物品</string>
+</resources>
